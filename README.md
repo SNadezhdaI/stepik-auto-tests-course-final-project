@@ -1,18 +1,19 @@
 # Stepik auto-tests course final project
 
+
 ## Stack:
 
 * Python
 * Selenium
 
-Virtual environment:
+## Virtual environment:
 
-*requirements.txt
+* requirements.txt
 
 Test configuration:
 * conftest.py
 
-###Page Objects in dir pages:
+### Page Objects in dir pages:
 
 * main_page.py
 * login_page.py
