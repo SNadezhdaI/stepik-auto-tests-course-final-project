@@ -19,7 +19,7 @@ Test configuration:
 * login_page.py
 * base_page.py
 
-###Locators for main and login pages:
+### Locators for main and login pages:
 
 * locators.py
 
